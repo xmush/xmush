@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-**xmush/xmush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My name is Muhammad Sholeh,** I am an IT enthusiast, I have some experience in website development. and now I'm finishing the full stack developer bootcamp at Alterra Academy. I'm also looking for a job that can improve my ability as a software engineer and support my career.
 
-Here are some ideas to get you started:
+<-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ...
+```bash
+pip install foobar
+```
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

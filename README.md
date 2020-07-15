@@ -5,7 +5,6 @@
 ##### ☎ Here my contact :
 ```bash
 Address   : Malang, Jawa Timur
-Phone     : 082396498454
 email     : mushti8@gmail.com
 linkedin  : https://www.linkedin.com/in/muhammad-sholeh-673a2a144/
 ```

@@ -15,12 +15,5 @@ Language  : JS, Python, PHP
 Database  : MySQL, MongoDB
 Other     : AWS, GCP, Docker, Travis-CI, Kubernetes, Github
 ```
-##### 🏗 Here my litle projects :
-```bash
-https://iklankan.tech/
-https://jskitchen.pythonanywhere.com/
-https://ahmadajip55.github.io/
-https://xmush.github.io/
-```
 
 #### Thank you 👋

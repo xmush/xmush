@@ -17,6 +17,9 @@
 <a href="https://instagram.com/mush_60" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mush_60" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Trophy:</h3>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xmush" alt="xmush" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,22 +29,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xmush&show_icons=true&locale=en" alt="xmush" /></p>
 
-<!-- ### Hi there 👋
-
-**My name is Muhammad Sholeh,** I am an IT enthusiast, I have some experience in website development.
-
-##### ☎ Here my contact :
-```bash
-Address   : Malang, Jawa Timur
-Telegram  : @xmush
-email     : mushti8@gmail.com
-linkedin  : https://www.linkedin.com/in/muhammad-sholeh-673a2a144/
-```
-##### 🙂 Here my skill :
-```bash
-Language  : JS, Python, PHP
-Database  : MySQL, MongoDB
-Other     : AWS, GCP, Docker, Travis-CI, Kubernetes, Github
-```
-
-#### Thank you 👋 -->

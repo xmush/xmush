@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **....zzz**
 
+[![mush's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/xmush)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-sholeh-673a2a144" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhammad-sholeh-673a2a144" height="30" width="40" /></a>
